@@ -1,3 +1,5 @@
+This repo is refernce by https://github.com/ironaddicteddog/anchor-escrow/tree/master
+
 # Anchor Example: Escrow Program
 
 > See this [doc](https://solmeet.gen3.network/notes/intro-to-anchor) for more implementation details
@@ -44,9 +46,9 @@ $ cargo install --git https://github.com/coral-xyz/anchor avm --locked --force
 Install latest `anchor` version:
 
 ```bash
-$ avm install 0.27.0
+$ avm install 0.29.0
 ...
-$ avm use 0.27.0
+$ avm use 0.29.0
 ...
 ```
 
@@ -67,7 +69,7 @@ Check if Anchor is successfully installed:
 
 ```bash
 $ anchor --version
-anchor-cli 0.27.0
+anchor-cli 0.29.0
 ```
 
 ### Install Dependencies
